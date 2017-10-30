@@ -6,3 +6,4 @@
 - Not able to edit reports after first submit
 - Cannot invite other people to edit reports
 - How to upload a file
+- How to put a file up for download
